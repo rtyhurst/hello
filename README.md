@@ -1,3 +1,3 @@
 # hello
-
-Test repo for Linux
+Testing new installation of git
+Test repo for pycharm project
